@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       58f8d662-6ede-41f9-98a8-705238376f9c
+:END:
+#+title: Prevention et protection au travail
+* Introduction
+Cette note est la note mère du cours de =Prévention et Protection au Travail= en M2.
+Ce cours a pour but d'introduire les concepts nécessaires pour la bonne compréhension des notions de prévention des accidents, gestion des risques ainsi qu'un partie de l'aspect juridique.
+
+Ce cours est divisé en 6 chapitres couvrant des aspects différents qu'il faut connaître
+* Chapitres
+** TODO [[id:6e4b0b51-dd46-4189-b0bd-f4512c21f5d4][ Règlement général pour la protection au travail]]
+Ce chaptire reprend tous les aspects de la legislation et réglementation du travail. L'objectif est d'informer l'étudiant du contenu et des champs d'application de la législation du travail. On y couvre le RGPT ainsi que le =Code sur le bien être au travail=.
+** TODO [[id:8125e770-da72-446a-a86c-a615cce582c1][Les organes de sécurité, d'hygiène et d'embellissement des lieux de travail]]
+Ce chapitre parle des deux principaux organes de sécurité, d'hygiène et d'embellissement des lieux de travail dans l'entreprise. Ceci représente l'organisation légale des services et des comités de sécurité. Il y en existe deux, ler service de prévention et de protection au travail ainsi que le comité pour la prévention et la protection au travail.
+** TODO [[id:a9c14ade-44be-405d-8cb8-8fe172875fa4][Accidents du travail]]
+Ce chapitre vise a décrire l'accident du travail, à montrer les causes possibles, le mode légal de réparation du préjudice et le coût des accidents du travail.
+** TODO [[id:88e533a0-fcab-4fff-ac29-b1d5d7991fc7][Risques et nuisances]]
+Ce chapitre reprend les principales nuisances et principaux risques ainsi que leur origine et leur impact dans le cadre d'une vie professionnelle. On y reprend principalement le bruit, les vibrations, la chaleur, les rayonnements et l'exposition aux produits dangereux.
+** TODO [[id:b35ba99c-32ce-4e9f-a6d3-6bc96330df06][La prévention]]
+La prévention est la startégie mise en place pour minimiser voir éliminer certains dangers.
+** TODO [[id:18527d43-ccad-429c-aa6d-1ce4920c66ee][Incendies et Situations d'urgences]]
+Ce chapitre décrit l'incendie, ses conséquences, ses mécanismes, les moyens de détéctions et les moyens de lutte. On reprend également les préscriptions légales.
+* Evaluation
+Le cours sera évalué en 5 questions, dont une /bateau/.
