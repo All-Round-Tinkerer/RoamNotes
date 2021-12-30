@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       a308e15c-e29f-492d-8afa-6d64933aa38f
+:END:
+#+title: Logistique
+#+filetags: Cours de logistique
+
+* Introduction
+Ce cours a pour but d'introduire la logistique et ses enjeux dans l'industrie aux étudiants ingénieurs de Pierrard. 
+* Définition
+La logistique est la planification, l'exécution et la maîtrise:
+- des mouvements et des mises en place de personnes ou des biens
+- des activités de soutien liées à ces mouvements et ces mises en place
+... le tout au sein d'un =système organisé= pour atteindre des objectifs spécifiques
+
+Il faut donc s'organiser pour:
+- Gérer des flux physiques, informatifs, fincansiers et humains
+- Répondre aux attentes des clients et rester compétitif
+* TODO [[id:77e1f38d-f18d-49fb-8b55-a06583448248][Histoire de la logistique]]
+* Axes de la logistique
+** Fonction transversale et influente
+La logistique influence la performance de =l'intégralité de l'entreprise=. Elle doit agir sur tous les domaines qu'ils soient techniques, humains, fincanciers ou informatiques.
+La logisitque gère tout ce qui rentre, tout ce qui sort et tout les mouvements internes que ce soit d'information ou d'objets physiques. Il faut donc gérer:
+- En amont:
+  - Les flux en provenance des fournisseurs
+- Au sein:
+  - La gestion des stocks et de la manutention des composants
+  - Gestion des flux informationnels
+- En aval:
+  - Le stockage des produits
+  - Le transport vers le client
+** Optimisation
+La logistique a pour mission =d'optimiser l'ensemble des flux= physiques et informationnels de l'entreprise. Il ne faut pas qu'une information ou un objet ne se perde, et toujours s'assurer que chaque étape à les ressources et la connaissance nécessaire pour agir efficacement.
+** Multi-plan
+- Plan de la production:
+  La logisitque doit déterminer les relations entre les ateliers et conditionne nettement le rythme et les delais de production
+- Plan fincanciers:
+  La logistique doit optimiser les stocks (n'en avoir ni trop ni pas assez) et doit donc réduire les charges de l'entreprise.
+- Plan stratégique:
+  La logistique doit permettre à l'entreprise de se défendre lors de la "chrono-compétition", c'est à dire être réacitf et agile pour le client.
+- Plan commercial:
+  La logistique va avoir un impact sur les délais pour livrer au client en limitant le plus possible les ruptures de stock
+** Cycle de vie du produit
+La logistique doit prendre en considération l'intégralité du cycle de vie du produit, de ses matières premières jusquà sa fin de vie.
+** Gestion des flux
+La logistique se préoccupe de deux types de flux en particulier, le flux d'information et les flux physiques.
+*** Flux physiques
+Le flux physique représente le flux de matières premières et du produit en cours de fabrication mais aussi de matériel et de machines et des retours après ventes. En général, ce flux avance des fournisseurs vers les clients. 
+*** Flux d'information
+Le flux d'information regroupe toutes les informations échangés entre les différentes parties, que ce soit des communications internes, des devis ou des factures ou l'état des stocks. En général, il vaut mieux utiliser un logiciel spécialisé pour gérer ses flux et s'assurer de ne rien perdre, que tout reste bien catalogué et que chaque membre à accès à ce qu'il à besoin de savoir. En général, ce flux recule, allant du client vers le fournisseur et de la fabrication à la direction.
+* La logistique en pratique
+** Objectifs
+Il faut livrer le produit:
+1. Dans la bonne référence
+2. En bon état
+3. Au bon moment
+4. Au bon endroit
+5. Dans la quantité juste et nécessaire
+6. Dans le bon conditionnement
+7. Avec les bons documents
+8. Avec une préoccupation écologique
+9. Dans les meilleurs conditions économiques
+\Rightarrow =Répondre à le demande du client à moindre coût=
+** Le logisticien
+Décision dans deux niveaux:
+1. Stratégique et tactique
+   Le logisiticien doit faire des choix théoriques sur l'organisation de la logistique dans l'entreprise
+2. Opérationnel
+   Le logisticien doit gérer directement le flux des matières premières, des porduits semi-finis et des produits finis et corriger s'il venait à y avoir un problème
+
+Les 5 "M" du logicticien:
+1. =Missionnaire= pour expliquer la démarche logistique
+2. =Maître du temps=, décider quand et combien sur la chaîne logistique
+3. =Médiateur=, rechercher des compromis
+4. =Modélisateur= pour optimiser le processus logistique
+5. =Maître= des systèmes et outils
+* Paradoxe de la logitstique
+Bien que très importante dans les entreprises surtout lorsqu'elles sont situés dans une concurrence rude la logistique est souvent négligée car mal comprise, et donc mal exploitée. Bien souvent elle ne se réduit qu'aux transports et entreposage.
+* Liens vers d'autres ressources
+** TODO [[id:0f7ca910-67c6-41d9-ae0c-414384cbe9cb][Adaptation continue]]
+** TODO [[id:98baaa59-2fe4-4553-9f37-6734380c6958][Supply chain]]
+** TODO [[id:6697f8d3-4be6-4e87-b8b9-000b28987112][ Définir la chaîne logistique]] 
+** TODO [[id:fef77ba4-1cd5-41ab-b9a8-bb6cfa7daa9c][Stratégie d'achat et d'approvisionnement]]
+** TODO [[id:adf934e6-57b0-4c3d-a461-e84ff0aca45b][Gestion des ressources de la production]]
+** TODO [[id:21eb835e-4ecd-483d-b668-d4339f0a000f][Processus des commandes clients]]
+** TODO [[id:9fdac967-4ef7-4baa-8acc-d3aa2e017530][Pilotage des stocks, entrepots et transports]]
+** TODO [[id:1bd291ca-97db-4640-a1c0-b80f8c3c4d9b][Gestion de la production]] 
+** TODO [[id:35a1c651-483f-47f0-8885-ac3ec404caa4][Outils du lean]]

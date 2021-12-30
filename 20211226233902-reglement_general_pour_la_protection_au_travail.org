@@ -2,4 +2,29 @@
 :ID:       6e4b0b51-dd46-4189-b0bd-f4512c21f5d4
 :END:
 #+title: Règlement général pour la protection au travail
+* Introduction
+Le règlement général pour la protection du travail (RGPT) regroupe l'intégralité des dispositions et règlements légaux autour de la sécurité et l'hygiène au travail.
 
+Ce code est en train de progressivement disparaître au profit du [[id:2dea8711-aa3d-4ad2-bbe0-e0d2e7539ce3][ Code sur le bien être au travail]] qui regroupe la nouvelle législation et les directives européenne.
+* Application
+Le RGPT s'applique à toute personne occupant un travailleur en vertu d'un contrat de louage et aux travailleurs eux-même. Certains articles du RGPT sont obsolètes, ou en voie d'obsolesence au fur et à mesure que le [[id:2dea8711-aa3d-4ad2-bbe0-e0d2e7539ce3][Code sur le bien être au travail]]  est rédigé. 
+* Structure
+A l'heure actuelle le RGPT est composé des titres suivants:
+- *Titre I bis: Champ d'application*
+- *Titre II: Dispositions générales concernant l'hygiène au travail ainsi que la sécurité et santé des travailleurs*
+  - /Disposistions relatives à la sécurité des travailleurs/
+    Sections concernant les dangers sur le lieu de travail (véhicules, stockage, gaz, repos, travailleurs isolés, prévention)
+  - /Dispositions relatives à l'hygiène des lieux de travail/
+  - /Dispositions relatives à la protection des travailleurs contre les risques liés à l'exposition à des agents physiques, chimiques et biologiques/
+  - /Dispositions relatives à la santé des travailleurs/
+    Sections sur la surveillance médicale et sanitaire, les nuisances et les sièges.
+- *Titre III: Dispositions particulières applicables dans certaines industries*
+  - /Appareils, installations, et procédés de travail communs à diverses industries/
+  - /Mesures spéciales pour certaines industries/
+  - /Substances et préparations dangereuses/
+  - /Substances particulaires ou fibres, dont l'inhalation est nuisible pour la santé/
+  - /Substances produisant une fumée toxique/
+  - /Mesures particulières se rapportant à certaines activités industrielles/
+- *Titre IV: Régime spécial des appareils et machines à vapeur*
+- *Titre V: Disposistions finales*
+  - /Surveillance et constatation des infractions/

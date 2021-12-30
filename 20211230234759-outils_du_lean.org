@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       35a1c651-483f-47f0-8885-ac3ec404caa4
+:END:
+#+title: Outils du lean
+

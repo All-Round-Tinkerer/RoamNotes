@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       98baaa59-2fe4-4553-9f37-6734380c6958
+:END:
+#+title: Supply chain
+

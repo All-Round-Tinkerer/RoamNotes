@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2dea8711-aa3d-4ad2-bbe0-e0d2e7539ce3
+:END:
+#+title: Code sur le bien être au travail
+* Introduction
+Le code sur le bien être au travail comprend tous les arrêtés d'exécution régissant la sécurité et la protection au travail. Il s'agit principalement d'une intégration des directives européennes dans la loi belge en uniformisant celles ci avec le RGPT.
+
+Ce code est construit suite à la transposition des directives européennes 
+
+* Application
+Ce code est entré en application en 2017 et remplace le [[id:6e4b0b51-dd46-4189-b0bd-f4512c21f5d4][Règlement général pour la protection au travail]] progressivement. Il s'applique à toutes les personnes occupant des travailleurs en vertu d'un contrat de louage ainsi que les travailleurs eux même.

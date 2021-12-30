@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6697f8d3-4be6-4e87-b8b9-000b28987112
+:END:
+#+title: Définir la chaîne logistique
+
